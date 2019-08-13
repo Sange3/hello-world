@@ -1,5 +1,5 @@
 # hello-world
-Practice repository
+Practicing repositories
 
 Hi World 
 
